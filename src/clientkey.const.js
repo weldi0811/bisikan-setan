@@ -1,1 +1,2 @@
-export const CLIENT_KEY = 'QEBuAUbMsGt5kqw2qGphxPwGHTaUBydSAVQPqkVsuiE';
+export const UNSPLASH_API = process.env.REACT_APP_UNSPLASH_API;
+export const UNSPLASH_CLIENT_KEY = process.env.REACT_APP_UNSPLASH_CLIENT_KEY;
